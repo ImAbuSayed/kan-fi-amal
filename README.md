@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Kan Fi Amal |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/kan-fi-amal/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> تعالي في حضني وعيشي معايا الليلة
+> نار الشوق بتكوي و روحي عليلة
+> أنا بين إيديك بنسى العالم والناس
+> حبك بياخدني وبيدوب الإحساس
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
