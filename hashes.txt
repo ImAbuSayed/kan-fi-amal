@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kan Fi Amal
+
+This log tracks the cryptographic history and versioning for the song **Kan Fi Amal** (kan-fi-amal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:04:42.031412 | `v1` | `1b87d559e215032b6ab0d4d9fa950633e2288f58a27995edaa8ec7322dbaae7f` | `6b3b181b7f946db443a5190cee8cb31b45444d48a31ec770fc2aa099339837de` | `2026-05-09_kan-fi-amal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
